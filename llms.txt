@@ -1,0 +1,11 @@
+# TeamElghazi
+
+> Site personnel d’Abdellah Elghazi : présentation, parcours, cours et contact.
+
+## Pages
+- [Accueil](https://kiradarkness.github.io/sitewebseance1/) : présentation du site et accès aux rubriques.
+- [À propos](https://kiradarkness.github.io/sitewebseance1/abdellah.html) : parcours et centres d’intérêt d’Abdellah Elghazi.
+- [Cours et étudiants](https://kiradarkness.github.io/sitewebseance1/cours.html) : matières, étudiants et tableau récapitulatif.
+- [Contact](https://kiradarkness.github.io/sitewebseance1/contact.html) : formulaire de contact et informations.
+
+Le site est rédigé en français et construit en HTML et CSS statiques.

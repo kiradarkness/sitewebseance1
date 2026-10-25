@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kiradarkness.github.io/sitewebseance1/sitemap.xml
